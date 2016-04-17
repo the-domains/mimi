@@ -4,21 +4,21 @@
         <description><![CDATA[mimi]]></description>
         <link>https://thegrid.ai/mimi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 22:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 22:49:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mimi/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>bla</p>]]></description>
-            <link>https://thegrid.ai/mimi/cdb79f34-07a2-4c34-acec-5362a1ba7cea/index.html</link>
-            <guid isPermaLink="false">cdb79f34-07a2-4c34-acec-5362a1ba7cea</guid>
-            <pubDate>Sun, 17 Apr 2016 22:48:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d90f88b-04ed-4035-a3e6-44d4a6749146.jpg">]]></description>
             <link>https://thegrid.ai/mimi/hello/index.html</link>
             <guid isPermaLink="false">cfb8c2e7-5a6d-4ffb-af92-c8bca6a9aaf0</guid>
-            <pubDate>Sun, 17 Apr 2016 22:45:20 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 22:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>123 proba</p>]]></description>
+            <link>https://thegrid.ai/mimi/cdb79f34-07a2-4c34-acec-5362a1ba7cea/index.html</link>
+            <guid isPermaLink="false">cdb79f34-07a2-4c34-acec-5362a1ba7cea</guid>
+            <pubDate>Sun, 17 Apr 2016 22:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
