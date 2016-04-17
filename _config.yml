@@ -1,6 +1,6 @@
 name: mimi
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.79451
 typography_spectrum: 0.10556
 title: mimi
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9f8b94'
     - '#ccd8ce'
     - '#ff95a9'
-  brandStrength: 1
+  brandStrength: 0.8125
   lightness: 0.6875
   saturation: 0.1875
   rhythmicContrast: 0.75
