@@ -4,14 +4,14 @@
         <description><![CDATA[mimi]]></description>
         <link>https://thegrid.ai/mimi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 22:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 23:10:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mimi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>milena milena</p>]]></description>
+            <title><![CDATA[post1]]></title>
+            <description><![CDATA[<article><h1>post1</h1><p>milena milena</p></article>]]></description>
             <link>https://thegrid.ai/mimi/q/index.html</link>
             <guid isPermaLink="false">1f99b970-c56f-49d4-ac16-625d2d88e8da</guid>
-            <pubDate>Sun, 17 Apr 2016 22:57:12 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 23:10:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
