@@ -2,6 +2,7 @@ name: mimi
 favicon: null
 layout_spectrum: 0.5622400273568928
 typography_spectrum: 0.9419192646164447
+title: mimi
 cta:
   domain: null
   bucket: null
