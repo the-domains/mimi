@@ -1,16 +1,16 @@
 title: mimi
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 0.8742177
 favicon: null
 name: mimi
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -28,7 +28,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.6875
+  brandStrength: 0.8717147
   lightness: 0.4236546
   saturation: 0.1933667
   rhythmicContrast: 0.2008761
