@@ -4,15 +4,8 @@
         <description><![CDATA[mimi]]></description>
         <link>https://thegrid.ai/mimi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 23:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 23:10:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mimi/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[post1]]></title>
-            <description><![CDATA[<article><h1>post1</h1><p>milena milena</p></article>]]></description>
-            <link>https://thegrid.ai/mimi/q/index.html</link>
-            <guid isPermaLink="false">1f99b970-c56f-49d4-ac16-625d2d88e8da</guid>
-            <pubDate>Sun, 17 Apr 2016 23:16:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d90f88b-04ed-4035-a3e6-44d4a6749146.jpg">]]></description>
@@ -22,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[1]]></title>
-            <description><![CDATA[<article><h1>1</h1><p>123 proba</p></article>]]></description>
+            <description><![CDATA[<p>123 proba</p>]]></description>
             <link>https://thegrid.ai/mimi/cdb79f34-07a2-4c34-acec-5362a1ba7cea/index.html</link>
             <guid isPermaLink="false">cdb79f34-07a2-4c34-acec-5362a1ba7cea</guid>
             <pubDate>Sun, 17 Apr 2016 22:53:01 GMT</pubDate>
