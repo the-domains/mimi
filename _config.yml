@@ -3,7 +3,7 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.6789737
+layout_spectrum: 0.8804756
 favicon: null
 name: mimi
 purpose: []
@@ -29,7 +29,7 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0
-  lightness: 0.8479349
+  lightness: 1
   saturation: 0.5062578
   rhythmicContrast: 0.5375469
   brandColors:
