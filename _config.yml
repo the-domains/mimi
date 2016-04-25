@@ -1,16 +1,16 @@
 title: mimi
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 layout_spectrum: 0.8804756
 favicon: null
 name: mimi
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -28,14 +28,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0
+  brandStrength: 0.7140175
   lightness: 1
   saturation: 0.5463079
   rhythmicContrast: 0.5375469
   brandColors:
-    - '#000403'
-    - '#f6f2f3'
-    - '#75b1ef'
-    - '#0078ce'
-    - '#856fb0'
+    - '#92AEBF'
+    - '#B09E6E'
+    - '#526F81'
+    - '#8D8258'
+    - '#554E36'
 typography_spectrum: 0.0669587
