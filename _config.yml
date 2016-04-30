@@ -1,41 +1,41 @@
 title: mimi
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5463079
+  brandStrength: 0.9072682
+  lightness: 1
+  brandColors:
+    - '#CBFCFF'
+    - '#28022B'
+    - '#85446E'
+    - '#74D8FA'
+    - '#2EADDA'
+  rhythmicContrast: 0.5375469
 cta:
-  domain: null
   bucket: null
   version: null
-layout_spectrum: 0.8804756
-favicon: null
-name: mimi
-purpose: []
+  domain: null
 analytics:
+  twitter: null
   facebook: null
   google: null
-  twitter: null
+favicon: null
+name: mimi
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-color:
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.5463079
-  rhythmicContrast: 0.5375469
-  brandColors:
-    - '#92AEBF'
-    - '#B09E6E'
-    - '#526F81'
-    - '#8D8258'
-    - '#554E36'
 typography_spectrum: 0.0669587
+layout_spectrum: 0.8804756
